@@ -1,0 +1,17 @@
+package "Milky2018/toolkit"
+
+// Values
+fn alert[Any](String) -> Any
+
+fn run_async(() -> Unit) -> Unit
+
+fn suspend[A](((A) -> Unit) -> Unit) -> A
+
+fn suspend_err[A](((A) -> Unit, (Error) -> Unit) -> Unit) -> A!
+
+// Types and methods
+
+// Type aliases
+
+// Traits
+
