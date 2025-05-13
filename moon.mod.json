@@ -2,9 +2,9 @@
   "name": "Milky2018/toolkit",
   "version": "0.1.2",
   "readme": "README.md",
-  "repository": "Toolkit library for common use.",
+  "repository": "https://github.com/Milky2018/toolkit.git",
   "license": "Apache-2.0",
   "keywords": ["utils", "toolkit"],
-  "description": "",
+  "description": "Toolkit library for common use.",
   "source": "src"
 }
