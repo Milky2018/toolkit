@@ -1,5 +1,5 @@
 ///|
-pub fn alert[Any](msg : String) -> Any {
+pub fn[Any] alert(msg : String) -> Any {
   println(msg)
   panic()
 }
